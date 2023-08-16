@@ -436,6 +436,8 @@ MigrationBackup/
 .ionide/
 
 ### Windows ###
+
+*:Zone.identifier
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
